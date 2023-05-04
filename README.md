@@ -1,1 +1,3 @@
 # wallet
+kaspa gate.io
+kaspa:qrl0x2c0rzx4yvct2a7jhkrndhe9j2mgekfeqtftful5uhmu26g36cz786zva

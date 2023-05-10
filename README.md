@@ -4,3 +4,6 @@
 ## ironfish
 b8816a68308affc18aaaedab7a7492ec93c44364a1ca64ed68ca3d7f9c7070bf
 ## btc
+
+## kaspa
+kaspa:qpywknk63fvdakxrfjue9d3znwy8lfsjh628jl8gnqk08kam6c64xpnae8e0f
